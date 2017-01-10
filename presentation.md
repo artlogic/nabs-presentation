@@ -112,9 +112,11 @@ Writing npm scripts in style
 
 ## How to use
 
-* Make a `nabs.yml` in your project root that defines your tasks <!-- .element: class="fragment" data-fragment-index="1" -->
-* Run `nabs` <!-- .element: class="fragment" data-fragment-index="2" -->
-* Run your npm tasks like always: `npm run test:unit` <!-- .element: class="fragment" data-fragment-index="3" -->
+* <!-- .element: class="fragment" data-fragment-index="1" --> Make a `nabs.yml` in your project root that defines your tasks
+* <!-- .element: class="fragment" data-fragment-index="2" --> Run `nabs`
+* <!-- .element: class="fragment" data-fragment-index="3" --> ...
+* <!-- .element: class="fragment" data-fragment-index="4" --> Profit! (just kidding)
+* <!-- .element: class="fragment" data-fragment-index="5" --> Run your npm tasks like always: `npm run test:unit`
 
 
 
